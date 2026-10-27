@@ -1,0 +1,3 @@
+native/build/
+native/__pycache__/
+*.pyc
